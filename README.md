@@ -43,10 +43,10 @@ Sweep the number of physical integer and floating-point registers over 64, 96, a
 | Stalls |  | |  | 
 
 
-| Metric | 64 | 96 | 128 | 256 |
-|---|---|---|---|---|
-| IPC |  |  |  |  | 
-| Stalls |  |  | |  | 
+| Metric | 64 | 96 | 128 | 
+|---|---|---|---|
+| IPC |  |  |  |  
+| Stalls |  |  | |  
 
 ## Task 2: Branch Prediction and Speculative Execution in Masked Attention (O3CPU) (5 points)
 
